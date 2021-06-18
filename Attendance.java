@@ -9,7 +9,7 @@ public class Attendance {
 		if (empcheck == employee)
 			System.out.println("emp is present");
 			else
-			System.out.println("emp is absent");
+			System.out.println("employee is absent");
 
 
 }
